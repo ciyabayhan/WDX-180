@@ -4,7 +4,7 @@ Week,Day,Concept,Task,Level,Confidence,Completed,Instructions
 1,1,Setting up: Slack,Connect on Slack: https://intechgration.slack.com,Beginner,9,TRUE,Say hello to us on Slack!
 1,1,Setting up: GitHub,Watched the 'WDX-180 - Setting up: SSH Keys Cloning repo & update progress' video,Beginner,9,TRUE,Update CONFIDENCE column. Change COMPLETED column to TRUE
 1,1,Setting up: WDX,Fork WDX repository,Beginner,9,TRUE,Paste forked repo URL
-1,1,Setting up: WDX,Enable GitHub Pages on forked WDX repository,Beginner,9,TRUE,Paste GitHub Page URL here (https://your_username.github.io/WDX-180)
+1,1,Setting up: WDX,Enable GitHub Pages on forked WDX repository,Beginner,9,TRUE,Paste GitHub Page URL here (https://github.com/ciyabayhan/WDX-180)
 1,1,Setting up: Code editor,Install VSCode,Beginner,9,TRUE,Updated FALSE to TRUE in the COMPLETED column
 1,1,Setting up: Code editor,Install VSCode WDX Extension Pack,Beginner,9,TRUE,Update CONFIDENCE column. Change COMPLETED column to TRUE
 1,1,Setting up: Node,Install Node.js (LTS),Beginner,9,TRUE,Update CONFIDENCE column. Change COMPLETED column to TRUE
