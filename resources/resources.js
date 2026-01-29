@@ -1,6 +1,19 @@
-//$(document).ready(function() {
-//$('.search-box').focus();
-//});
+$(document).ready(function() {
+$('.search-box').focus();
+});
+
+//LOAD DATA//
+fetch("resources.json")
+.then( response => response.json() ) 
+.then( data => {
+    renderSidebar(data);
+    renderSearchMenu(data);
+})
+.catch( error => {
+  console.log(error);
+});
+
+
 
 const wrapper = document.querySelector(".wrapper");
 const header = document.querySelector(".header");
